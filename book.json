@@ -10,13 +10,18 @@
     }
   },
   "plugins": [
-    "-search"
+    "-search",
+    "search-pro"
   ],
   "pluginsConfig": {
     "fontsettings": {
       "theme": "sepia",
       "family": "serif",
       "size": 1
+    },
+    "search-pro": {
+        "cutWordLib": "nodejieba",
+        "defineWord" : ["云开发","腾讯云"]
     }
   }
 }

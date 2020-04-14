@@ -1,0 +1,23 @@
+{
+  "name": "hosting-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bestony/hosting-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bestony/hosting-book/issues"
+  },
+  "homepage": "https://github.com/bestony/hosting-book#readme",
+  "dependencies": {
+    "gitbook-plugin-search-pro": "^2.0.2"
+  }
+}
