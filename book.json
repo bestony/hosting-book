@@ -1,0 +1,22 @@
+{
+  "title": "腾讯云云开发 · 网站托管手册",
+  "author": "腾讯云 · 云开发",
+  "description": "整理了云开发网站托管服务的各项使用手册，帮助用户快速上手使用云开发网站托管服务",
+  "language": "zh-hans",
+  "links": {
+    "sidebar": {
+      "腾讯云云开发": "https://cloud.tencent.com/product/wh?from=12304",
+      "体验云开发": "https://console.cloud.tencent.com/tcb?from=12304"
+    }
+  },
+  "plugins": [
+    "-search"
+  ],
+  "pluginsConfig": {
+    "fontsettings": {
+      "theme": "sepia",
+      "family": "serif",
+      "size": 1
+    }
+  }
+}
